@@ -112,7 +112,7 @@
     text-align: center;
 }
 .sec{
-    width:80%;s
+    width:80%;
     margin:auto;
     text-align: center;
     padding:3% 0;
@@ -136,7 +136,7 @@
 }
 .boxes h1{
     color:rgb(64, 65, 40);
-    font-size:40px%;
+    font-size:40px;
 }
 .sec .heading{
     color: rgb(57,36,36);
@@ -240,7 +240,7 @@
         left: 18%;
     }
 }
-@media only screen and (max-width:1800px){
+@media only screen and (max-width:820px){
      .burger{
         display: block;
     } 
